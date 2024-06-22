@@ -1,5 +1,7 @@
 # Assignment 01: Creating Recaman Sequence on a Number Line using Canvas API in JavaScript
 
+Live Link : https://lighthearted-melomakarona-1ac35f.netlify.app/
+
 ## Objective
 
 The objective of this assignment is to build a web application using JavaScript and the HTML5 Canvas API to visualize the Recaman sequence on a number line. The Recaman sequence is defined by the following rules:
