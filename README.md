@@ -8,7 +8,10 @@ The objective of this assignment is to build a web application using JavaScript 
 
 1. Start at 0.
 2. If the current number 'n' is greater than zero and has not been previously used, move 'n' steps backward.
-3. If the number has been used before or moving backward would result in a negative number, move 'n' steps forward instead.
+3. If the number has been used before or moving backward would result in a negative number, move 'n' steps forward instead
+
+You are already provided with the first 66 sequence of the Recaman sequence below, so you don’t have to write the logic to generate it. You are to make an website to **demonstrate it.**
+You need utilize the provided Recaman sequence and draw arcs or lines on the canvas to visualize the sequence at different indices based on the slider value.
 
 ## Implementation Details
 
